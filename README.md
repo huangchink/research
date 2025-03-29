@@ -6,7 +6,7 @@ The proposed architecture for remote eye tracking.
 Training strategy
 
 <div align=center>  <img src="img/training_strategy.png" alt="Teaser" width="500" align="bottom" /> </div>
-Result on popular gaze estimation dataset
+Result on popular gaze estimation datasets
 
 <div align=center>  <img src="img/result.png" alt="Teaser" width="500" align="bottom" /> </div>
 Alation study
