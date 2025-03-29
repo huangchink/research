@@ -87,7 +87,7 @@ if __name__ == "__main__":
     test_imagepath = config2["data"]["image"]
     test_labelpath = config2["data"]["label"]
     test_dataset = dataloader.txtload(test_labelpath, test_imagepath, 32, num_workers=4, header=True)
-    for seed in range(3, 4):  # 從 1 跑到 3407
+    for seed in range(3, 4):  # fix seed=4
         print(f"Running with seed {seed}")
         set_seed(seed)
 
