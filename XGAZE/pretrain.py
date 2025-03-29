@@ -159,7 +159,7 @@ if __name__ == "__main__":
 
                 left_loss = nn.L1Loss()(gaze3, label)
                 right_loss = nn.L1Loss()(gaze4, label)
-                batch_loss = 0.25 * loss +0.25 * face_loss + 0.25 * left_loss + 0.25 * right_loss
+                batch_loss = 0.2 * loss +0.2 * lowface_loss+0.2 * face_loss + 0.2 * left_loss + 0.2 * right_loss
                 
                 # 反向傳播和更新
                 optimizer.zero_grad()
