@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
         print("Model building")
         net = DGMnet()
-        pretrained_path = "./loadmodel/pretrain_model.pt"
+        pretrained_path = "./load_pretrain/pretrain_model.pt"
 
         # 載入預訓練的 Backbone
         load_pretrained_backbone(net, pretrained_path)
