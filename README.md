@@ -3,7 +3,7 @@
 
 <div align=center>  <img src="img/DGMnet.png" alt="Teaser" width="500" align="bottom" /> </div>
 
-**Picture:**  *Training strategy*
+*Training strategy*
 
 <div align=center>  <img src="img/training_strategy.png" alt="Teaser" width="500" align="bottom" /> </div>
 
