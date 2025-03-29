@@ -1,10 +1,13 @@
 # Remote Eye tracking for DMS/landmark detection
-<div align=center>  <img src="figures/teaser.png" alt="Teaser" width="500" align="bottom" /> </div>
-
-**Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
-
-<div align=center>  <img src="./figures/main_image.png" alt="Main image" width="800" align="center" /> </div>
-
 **Picture:**  *The proposed architecture.*
 
+<div align=center>  <img src="img/DGMnet.png" alt="Teaser" width="500" align="bottom" /> </div>
+
+**Picture:**  *Training strategy*
+
+<div align=center>  <img src="img/training_strategy.png" alt="Teaser" width="500" align="bottom" /> </div>
+
+**Picture:**  *Alation study*
+
+<div align=center>  <img src="img/ablation.png" alt="Teaser" width="500" align="bottom" /> </div>
 ---
