@@ -1,0 +1,23 @@
+---
+train:
+
+    params:
+        batch_size: 16
+        epoch: 11
+        lr: 0.001
+        decay: 0.1
+        decay_step: 5
+        warmup: 5
+
+    save:
+      save_path: "/home/tchuang/research/Eyediap/savemodel/"
+      model_name: Eyediap
+      step: 10
+    data:
+      image: "/home/tchuang/research/Eyediap/Data_norm/Image"
+      label: "/home/tchuang/research/Eyediap/Data_norm/Label_crossval"
+      header: True
+      name: Eyediap
+      isFolder: True
+
+reader: reader_eyediap
