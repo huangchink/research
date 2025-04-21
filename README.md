@@ -1,5 +1,5 @@
 # Remote Eye tracking for DMS/landmark detection
-The proposed architecture for remote eye tracking.
+The proposed backbone for remote eye tracking.
 
 <div align=center>  <img src="img/DGMnet.png" alt="Teaser" width="500" align="bottom" /> </div>
 
