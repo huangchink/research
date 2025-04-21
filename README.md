@@ -12,7 +12,7 @@ Result on popular gaze estimation datasets
 Alation study
 
 <div align=center>  <img src="img/ablation.png" alt="Teaser" width="500" align="bottom" /> </div>
----
+
 Further extended to Driver Monitoring using Gaze、Ear、Headpose 
 <div align=center>  <img src="img/dms.png" alt="Teaser" width="500" align="bottom" /> </div>
----
+
